@@ -10,6 +10,6 @@ I am Ramiro! I am a Full Stack Developer, with orientation to Security.
 - 🌐 Visit my [Resume](https://drive.google.com/file/d/1E-Y5QD8ce1zlpA_hFicJYy_GLha1tCH6/view?usp=sharing) for complete background and contact.
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide_langs_below=.25&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ramirofazio&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ramirofazio&hide_langs_below=.25&theme=radical">
 </p>
