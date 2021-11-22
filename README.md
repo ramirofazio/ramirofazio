@@ -1,4 +1,4 @@
-<! <img src="https://github.com/pr2tik1/pr2tik1/blob/master/pratik-2.jpg"> >
+<!-- <img src="https://github.com/pr2tik1/pr2tik1/blob/master/pratik-2.jpg"> -->
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramiro-fazio-dattoli/)
 
