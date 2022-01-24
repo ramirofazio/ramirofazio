@@ -2,7 +2,6 @@
   
 ### Hi 👋 
 I am Ramiro! I am a Full Stack Developer, with orientation to Security.
-- 👨🏽‍💻 I'm current working on the final proyect of Henry BootCamp.
 - 🤝 Looking for a great oportunity on IT world.
 - 🌐 Visit my [Resume](https://drive.google.com/file/d/1E-Y5QD8ce1zlpA_hFicJYy_GLha1tCH6/view?usp=sharing) for complete background and contact.
 
