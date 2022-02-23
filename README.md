@@ -3,7 +3,7 @@
 ### Hi 👋 
 I am Ramiro! I am a Full Stack Developer, with orientation to Security & BlockChain.
 - 🤝 Looking for a great oportunity on IT world.
-- 🌐 Visit my [Resume](https://drive.google.com/file/d/1E-Y5QD8ce1zlpA_hFicJYy_GLha1tCH6/view?usp=sharing) for complete background and contact.
+- 🌐 Visit my [Resume](https://drive.google.com/file/d/13jBHzNsvspBnl4TzKgZJj4LNmEnpQ66P/view?usp=sharing) for complete background and contact.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ramirofazio&show_icons=true&theme=radical&line_height=33">
