@@ -3,6 +3,7 @@
 ### Hi 👋 
 I am Ramiro! I am a Full Stack Developer, with orientation to Security & BlockChain.
 - 🤝 Looking for a great oportunity on IT world.
+- ✅ Currently learning Solidity.
 - 🌐 Visit my [Resume](https://drive.google.com/file/d/13jBHzNsvspBnl4TzKgZJj4LNmEnpQ66P/view?usp=sharing) for complete background and contact.
 
 <p align = "center">
