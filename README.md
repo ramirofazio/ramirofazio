@@ -11,5 +11,6 @@ I am Ramiro! I am a Full Stack Developer, with orientation to Security & BlockCh
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ramirofazio&hide_langs_below=.25&theme=radical">
 </p>
 
-
-[<img align = "center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramiro-fazio-dattoli/)
+<p align = "center">
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramiro-fazio-dattoli/)
+  </p>
