@@ -3,7 +3,7 @@
 ### Hi 👋 
 I am Ramiro! I am a Full Stack Developer, with orientation to Security & BlockChain.
 - 🤝 Looking for a great oportunity on IT world.
-- ✅ Currently learning Solidity.
+- ✅ Always learning.
 - 🌐 Visit my [Resume](https://drive.google.com/file/d/13jBHzNsvspBnl4TzKgZJj4LNmEnpQ66P/view?usp=sharing) for complete background and contact.
 
 <p align = "center">
@@ -12,4 +12,4 @@ I am Ramiro! I am a Full Stack Developer, with orientation to Security & BlockCh
 </p>
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramiro-fazio-dattoli/)
+[<img align = "center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramiro-fazio-dattoli/)
