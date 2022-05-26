@@ -2,7 +2,9 @@
   
 ### Hi 👋 
 I am Ramiro! I am a Full Stack Developer, with orientation to Security & BlockChain.
-- ✅ Always learning.
+- ✅ Currently working on ADA School.
+- 📚 Studing Artificial Inteligence with Python.
+- ⚔️ Training my habilities doing my Portafolio.
 - 🌐 Visit my [Resume](https://drive.google.com/file/d/13jBHzNsvspBnl4TzKgZJj4LNmEnpQ66P/view?usp=sharing) for complete background and contact.
 
 <p align = "center">
