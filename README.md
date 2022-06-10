@@ -5,7 +5,8 @@ I am Ramiro! I am a Full Stack Developer, with orientation to Security & BlockCh
 - ✅ Currently working on ADA School.
 - 📚 Studing Artificial Inteligence with Python.
 - ⚔️ Training my habilities doing my Portafolio.
-- 🌐 Visit my [Resume]([https://drive.google.com/file/d/13jBHzNsvspBnl4TzKgZJj4LNmEnpQ66P/view?usp=sharing](https://drive.google.com/file/d/1wLDRcfm2XUvp-Hs_VK-z2YghdRh3KdQR/view?usp=sharing)) for complete background and contact.
+- 🌐 Visit my [Resume](https://drive.google.com/file/d/13jBHzNsvspBnl4TzKgZJj4LNmEnpQ66P/view?usp=sharing](https://drive.google.com/file/d/1wLDRcfm2XUvp-Hs_VK-z2YghdRh3KdQR/view?usp=sharing) for complete background and contact.
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ramirofazio&show_icons=true&theme=radical&line_height=33">
