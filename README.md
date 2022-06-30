@@ -5,7 +5,7 @@ I am Ramiro! I am a Full Stack Developer, with orientation to Security & BlockCh
 - ✅ OPEN TO WORK.
 - 📚 Studing Artificial Inteligence with Python.
 - ⚔️ Training my habilities doing my Portafolio.
-- 🌐 Visit my [Resume](https://drive.google.com/file/d/1GVBoIXJCAcAM9AQuel59HfFGByw5au4o/view?usp=sharing) for complete background and contact.
+- 🌐 Visit my [Resume](https://drive.google.com/drive/folders/1VTwnR9GBwnugsJ0-q_TJK9cipyw7jh4c?usp=sharing) for complete background and contact.
 
 
 <p align = "center">
