@@ -3,8 +3,8 @@
 ### Hi 👋 
 I am Ramiro! I am a Full Stack Developer, with orientation to Security & BlockChain.
 - ✅ OPEN TO WORK.
-- 📚 Studing Artificial Inteligence with Python.
-- ⚔️ Training my habilities doing my Portafolio.
+- 📚 Javascript & Blockchain Tutor.
+- ⚔️ Training my habilities doing freelance Projects.
 - 🌐 Visit my [Resume](https://drive.google.com/drive/folders/1VTwnR9GBwnugsJ0-q_TJK9cipyw7jh4c?usp=sharing) for complete background and contact.
 
 
