@@ -3,9 +3,9 @@
 ### Hi 👋 
 I am Ramiro! I am a Full Stack Developer, with orientation to Security & BlockChain.
 - ✅ Currently working to MPF (Ministerio Publico Fiscal) on the CIJ (Cuerpo de Investigaciones Judiciales).
-- 📚 Studing how to inprove the manual jobs and create solutions!.
+- 📚 Studing how to improve the manual jobs and create solutions with code!
 - ⚔️ Training my habilities doing freelance projects. Blockchain, Javascript and React Tutor at CoderHouse.
-- 🌐 Visit my [Portafolio](rfd-development.vercel.app) for complete background and contact.
+- 🌐 Visit my [Portafolio](https://rfd-development.vercel.app) for complete background and contact.
 
 
 <p align = "center">
