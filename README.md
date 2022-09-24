@@ -2,10 +2,10 @@
   
 ### Hi 👋 
 I am Ramiro! I am a Full Stack Developer, with orientation to Security & BlockChain.
-- ✅ OPEN TO WORK.
-- 📚 Javascript & Blockchain Tutor.
-- ⚔️ Training my habilities doing freelance projects.
-- 🌐 Visit my [Resume](https://drive.google.com/drive/folders/1VTwnR9GBwnugsJ0-q_TJK9cipyw7jh4c?usp=sharing) for complete background and contact.
+- ✅ Currently working to MPF (Ministerio Publico Fiscal) on the CIJ (Cuerpo de Investigaciones Judiciales).
+- 📚 Studing how to inprove the manual jobs and create solutions!.
+- ⚔️ Training my habilities doing freelance projects. Blockchain, Javascript and React Tutor at CoderHouse.
+- 🌐 Visit my [Portafolio](rfd-development.vercel.app) for complete background and contact.
 
 
 <p align = "center">
