@@ -1,6 +1,6 @@
   ### Hi 👋 
 I am Ramiro! I am a Full Stack Developer, fanatic of good practices & agile.
-- ✅ Currently working to MPF (Ministerio Publico Fiscal) on the CIJ (Cuerpo de Investigaciones Judiciales).
+- ✅ Currently working to CIJ (Cuerpo de Investigaciones Judiciales) & Freelance Projects.
 - 📚 Studing how to improve the manual jobs & create solutions with code!
 - 🌐 Visit my [Portafolio](https://rfd-development.vercel.app) for complete background and contact.
 
