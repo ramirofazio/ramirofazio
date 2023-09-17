@@ -1,5 +1,5 @@
   ### Hi 👋 
-> I am Ramiro! I am a `Full Stack Developer`, fanatic of good practices & agile.
+> I am Ramiro! I am a `Full Stack Developer`,fanatic of good practices & agile.
 - ✅ Currently working to CIJ (Cuerpo de Investigaciones Judiciales) & doing Freelance Projects.
 - 📚 Studing how to improve the manual jobs & create solutions with `code`.
 - 🗣️ visit my [Linkedin](https://www.linkedin.com/in/ramirofaziodattoli) 4 complete background & contact!
